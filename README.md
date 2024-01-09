@@ -9,8 +9,6 @@
 - 🎓  Current: M.S. in Data Science @ UVA School of Data Science, Previous: B.A. in Economics, Minor in Data Science @ UVA
 - 💼 Currently working on Continuous Glucose Monitoring Capstone Project
 - 🌱 I’m currently learning about Deep Learning, Big Data Systems, and NLP
-- 📫 How to reach me: https://www.linkedin.com/in/stephaniefissel/
-- 😄 Pronouns: she/her
 
 ## 🔧 Technologies & Tools
 
@@ -22,13 +20,13 @@ Here are some of the technologies and tools I'm proficient in:
 - CSS
 - Tableau
 
-<!-- 
+
 ## 🌱 Recent Projects
 
-- [Project 1]: Brief description and link
-- [Project 2]: Brief description and link
-- [Project 3]: Brief description and link
--->
+- [Modeling Injuries in Competitive Runners](https://github.com/sfissel/modeling-injuries-in-runners-project)
+- [Washington Housing Market](https://github.com/sfissel/washington-housing-market-project)
+- [Diamond Pricing Analysis](https://github.com/sfissel/diamond-pricing-analysis-project)
+
 
 ## 🌍 Connect with Me
 
