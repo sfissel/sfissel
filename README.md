@@ -1,6 +1,6 @@
 # <p align="center">👋 Hello, World!</p>
 
-### <p align="center">Aspiring Data Scientist | Enthusiastic about AI, Machine Learning, & Data Visualization</p>
+### <p align="center"> Data Scientist | Enthusiastic about AI, Machine Learning, & Data Visualization</p>
 
 #### <p algin="center">Welcome to my GitHub profile! I'm Stephanie, an M.S in Data Science Student with interests in Data Science, Economics, and Business. I'm dedicated to using data ethically to solve complex problems, and I love exploring new technologies and sharing my knowledge.</p>
 
