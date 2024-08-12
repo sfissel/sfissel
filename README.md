@@ -2,12 +2,12 @@
 
 ### <p align="center"> Data Scientist | Enthusiastic about AI, Machine Learning, & Data Visualization</p>
 
-#### <p algin="center">Welcome to my GitHub profile! I'm Stephanie, an M.S in Data Science Student with interests in Data Science, Economics, and Business. I'm dedicated to using data ethically to solve complex problems, and I love exploring new technologies and sharing my knowledge.</p>
+#### <p algin="center">Welcome to my GitHub profile! I'm Stephanie, an M.S in Data Science graduate with interests in Data Science, Economics, and Business. I'm dedicated to using data ethically to solve complex problems, and I love exploring new technologies and sharing my knowledge.</p>
 
 ## 🚀 About Me
 
-- 🎓  Current: M.S. in Data Science @ UVA School of Data Science, Previous: B.A. in Economics, Minor in Data Science @ UVA
-- 💼 Currently working on Continuous Glucose Monitoring Capstone Project
+- 🎓 M.S. in Data Science from UVA School of Data Science, Previous: B.A. in Economics, Minor in Data Science from UVA
+- 💼 Recently worked on Continuous Glucose Monitoring Capstone Project
 - 🌱 I’m currently learning about Deep Learning, Big Data Systems, and NLP
 
 ## 🔧 Technologies & Tools
